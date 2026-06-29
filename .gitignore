@@ -1,0 +1,24 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Linter and Type Checker cache
+.mypy_cache/
+.ruff_cache/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Data
+# É uma boa prática de engenharia não subir bases de dados em repositórios, 
+# especialmente dados da empresa do teste.
+data/
+
+# Ambientes Virtuais (caso você crie)
+venv/
+.venv/
+env/
+
+# Outputs locais (Opcional, pode ignorar já que estão no Notebook)
+# output/

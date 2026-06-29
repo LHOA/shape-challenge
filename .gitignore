@@ -11,14 +11,12 @@ __pycache__/
 .ipynb_checkpoints/
 
 # Data
-# É uma boa prática de engenharia não subir bases de dados em repositórios, 
-# especialmente dados da empresa do teste.
 data/
 
-# Ambientes Virtuais (caso você crie)
+# Virtual Environments
 venv/
 .venv/
 env/
 
-# Outputs locais (Opcional, pode ignorar já que estão no Notebook)
+# Outputs
 # output/
